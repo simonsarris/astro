@@ -1,5 +1,13 @@
 # astro
 
+## 4.0.8
+
+### Patch Changes
+
+- [#9478](https://github.com/withastro/astro/pull/9478) [`dfef925e1`](https://github.com/withastro/astro/commit/dfef925e1fd07f3efb9fde6f4f23548f2af7dc75) Thanks [@lilnasy](https://github.com/lilnasy)! - Improves errors in certain places to also report their causes.
+
+- [#9463](https://github.com/withastro/astro/pull/9463) [`3b0eaed3b`](https://github.com/withastro/astro/commit/3b0eaed3b544ef8c4ec1f7b0d5a8f475bcfeb25e) Thanks [@Princesseuh](https://github.com/Princesseuh)! - Update Sharp version to ^0.33.1
+
 ## 4.0.7
 
 ### Patch Changes
